@@ -8,7 +8,8 @@ sssss
 ssdfzdcshdcbsb
 dsdsdfdaad Ave
 
-rdding a new changes
+ny insert rebase command
+Adding a new changes
 
 :WQ
 ::WQ
